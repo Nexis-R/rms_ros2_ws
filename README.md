@@ -1,5 +1,5 @@
 # RMS_ROS2_WS
-WRS2024プレ大会で、点検データをRMSクラウドにアップロードするためのROS2のテストワークスペース。<br>
+WRS2024プレ大会にて点検データをRMSクラウドにアップロードするためのROS2テストワークスペース。<br>
 <img src="images/images.png" width="500">
 
 # 動作環境
