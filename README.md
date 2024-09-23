@@ -43,6 +43,7 @@ ros2 launch rms_ros2_client_demo rms_gauge_demo.launch.py
 ##  データ再生 (ターミナル2)
 デモ用のバッグファイルを再生します。
 ```bash
+cd ~/rms_ros2_ws/src/rms_ros2_client_demo/bag
 ros2 bag play wrs_trial_demo_short_all
 ```
 rqtの映像が更新されない場合は、rqtをReloadすると映像が更新されます。
